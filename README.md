@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sakshi Singh, python programmer and soon to be Data Scientist/Analyst.
+- 👋 Hi, I’m Sakshi Singh, python programmer and soon to be Data Scientist.
 - 👀 I’m interested in Machine Learning and currently pursuing my Master's in Data Analytics from the University of Hildesheim, Germany.
 - 🌱 I’m currently learning web development, so that I could learn integration of Java with Python programming. I am currently working on web development and has developed a Virtual Automation Bus Industrie 4.0 using REST APIs in python programming. 
 - 💞️ I’m looking to become a data scientist in upcoming years and would want to convert my theoritical knowledge into useful industrial experience.
